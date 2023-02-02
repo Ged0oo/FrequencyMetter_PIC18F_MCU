@@ -45,7 +45,7 @@ chr_lcd_4bit_t lcd_1 ={
 	
 };
 
-/*
+
 keypad_t keypad_1 ={
 	.keypad_row_pins[0].port=PORTB_INDEX,
 	.keypad_row_pins[0].pin=GPIO_PIN0,
@@ -98,7 +98,7 @@ adc_conf_t adc_1 =
     .voltage_reference = ADC_VOLTAGE_REFERENCE_DISABLED
 };
 
- */
+ 
 
 
 timer1_t tmr_1 =
