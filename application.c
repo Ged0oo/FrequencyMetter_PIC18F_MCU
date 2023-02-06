@@ -1,3 +1,11 @@
+/* 
+ * File:   application.c
+ * Author: Mohamed_Nagy
+ * https://www.linkedin.com/in/mohamednagyofficial/
+ * Created on January 27, 2023, 8:41 PM
+ */
+
+
 #include "application.h"
 #include "MCAL_Layer/Interrupt/mcal_external_interrupt.h"
 #include "MCAL_Layer/ADC/hal_adc.h"
