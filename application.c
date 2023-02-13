@@ -12,7 +12,7 @@
 
 Std_ReturnType ret = E_NOT_OK;
 void application_intialize(void);
-void tmr0_handeler();
+void tmr0_handeler(); 
 void tmr1_handeler();
 volatile uint16 Freq = 0;
 
